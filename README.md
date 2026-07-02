@@ -1,2 +1,2 @@
-# meme_face
+# gesture_meme
 ;)
